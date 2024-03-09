@@ -1,11 +1,3 @@
-```
-{
-    Nama    : Jordan Frisay Himawan
-    NRP     : 3122600007
-    Kelas   : 2 STr IT A
-}
-```
-
 <div align="center">
     <img src="./assets/1.png">
     <p><strong>Slide 1</strong></p>
